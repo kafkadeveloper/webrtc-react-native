@@ -1,0 +1,23 @@
+{
+  "name": "as",
+  "version": "1.0.0",
+  "description": "react native webrtc",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijay22uk/webrtc-react-native.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijay22uk/webrtc-react-native/issues"
+  },
+  "homepage": "https://github.com/vijay22uk/webrtc-react-native#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "socket.io": "^1.7.4"
+  }
+}
