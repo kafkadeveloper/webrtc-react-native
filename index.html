@@ -20,7 +20,7 @@ function loadDoc() {
   return encodeURIComponent(key) + '=' + encodeURIComponent(userData[key]);
 }).join('&');
 var http = new XMLHttpRequest();
-var url = 'https://pfstgus2.merrillcorp.com/as/token.oauth2?';
+var url = 'https://pfstgus2.merrillcorp.com/as/token.oauth2';
 //var params = body;
 http.open("POST", url, true);
 
